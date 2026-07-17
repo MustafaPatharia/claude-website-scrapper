@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.pyc
+.scraper-venv/
+venv/
+
+# scrape output — regenerate by running the scraper, never committed
+output/
+_rebuild-plan.json
+_rebuild-plan.md
+
+# os
+.DS_Store
